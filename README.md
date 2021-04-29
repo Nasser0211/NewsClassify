@@ -67,7 +67,7 @@ matrix[i]=type.num
 
 matrix[j]=keyword.value
 
-![img](file:///C:\Users\lenovo\Documents\Tencent Files\794252610\Image\C2C\EC71540BA3BC04617FBC80659C87B220.png)
+![img](file:///EC71540BA3BC04617FBC80659C87B220.png)
 
 
 
