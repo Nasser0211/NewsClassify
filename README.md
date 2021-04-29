@@ -67,7 +67,7 @@ matrix[i]=type.num
 
 matrix[j]=keyword.value
 
-![contents](./keyword_matrix.png)
+![img](./keyword_matrix.png)
 
 
 
