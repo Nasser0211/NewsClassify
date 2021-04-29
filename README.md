@@ -67,7 +67,7 @@ matrix[i]=type.num
 
 matrix[j]=keyword.value
 
-![img](D:/SoftWare/通讯软件/QQ数据/2213470749/Image/C2C/CAGQ`8D8`BZ4K[4KDX4X$M4.png)
+![contents](./keyword_matrix.png)
 
 
 
